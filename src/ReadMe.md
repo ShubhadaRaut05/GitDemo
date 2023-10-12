@@ -1,13 +1,13 @@
 git init
 -- project level
-git config user.name sndpoffcl
-git config user.email sandeep2official@gmail.com
+git config user.name <username>
+git config user.email <email>
 git config user.name
 git config user.email
 
 --globally for entire system
-git config -g user.name sndpoffcl
-git config -g user.email sandeep2official@gmail.com
+git config -g user.name <username>
+git config -g user.email <email>
 
 --branching
 git branch
